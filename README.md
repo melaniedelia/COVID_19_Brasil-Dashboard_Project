@@ -5,38 +5,61 @@ Análise da situação COVID_19 no Brasil
 
 
 
-**Description**
+**Descrição**
 
-A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, potencialmente grave, de elevada transmissibilidade e de distribuição global. Fonte: Governo brasileiro ([link](https://www.gov.br/saude/pt-br/coronavirus/o-que-e-o-coronavirus)).
+A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, potencialmente grave, com elevada transmissibilidade e distribuição global.
 
-**Objective**
+Este projeto apresenta uma análise exploratória dos dados relacionados à evolução dos casos de COVID-19 e da vacinação no Brasil, utilizando técnicas de tratamento, análise e visualização de dados.
+A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, potencialmente grave, de elevada transmissibilidade e de distribuição global. 
+Fonte: Governo brasileiro ([link](https://www.gov.br/saude/pt-br/coronavirus/o-que-e-o-coronavirus)).
 
-Este projeto busca construir um dashboard de dados para exploração e visualização interativa de dados sobre o avanço de casos e da vacinação do Brasil
+**Objetivo**
+
+O objetivo deste projeto é desenvolver um dashboard interativo para exploração e visualização de dados sobre:
+
+Evolução dos casos confirmados de COVID-19 no Brasil;
+Impacto da pandemia ao longo do tempo;
+Avanço da vacinação na população brasileira.
 
 
  - **Dashboard**:
-    Google Data Studio ([link](https://lookerstudio.google.com/reporting/6c1d9f84-a9f5-447b-be22-fb49d60fb7d1/page/epNmD)).
+    Dashboard interativo desenvolvido no Google Data Studio: ([link](https://lookerstudio.google.com/reporting/6c1d9f84-a9f5-447b-be22-fb49d60fb7d1/page/epNmD)).
  - **Processamento**:
-    Kaggle Notebook ([link](https://www.kaggle.com/code/deliamelanie/dashboard-covid-brasil)).
+    O tratamento, limpeza e análise dos dados foram realizados utilizando um notebook no Kaggle: ([link](https://www.kaggle.com/code/deliamelanie/dashboard-covid-brasil)).
  - **Fontes**:
-    Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
-    Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
-   
-**Facility**
+   Os dados utilizados neste projeto foram obtidos a partir de fontes públicas:
+     Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
+     Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
 
-To use the examples in this repository, make sure you have Python installed along with the Pandas library, and the Seaborn and Matplotlib libraries. If you are using Google Colab, you can import these libraries using the following commands:
+**Tecnologias utilizadas**
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Kaggle Notebook
+Google Data Studio
 
-import math
-from typing import Iterator
-from datetime import datetime, timedelta
+**Como executar o projeto**
+
+Para reproduzir as análises, é necessário possuir Python instalado e as seguintes bibliotecas:
 
 import numpy as np
 import pandas as pd
-These commands import the necessary libraries and allow you to use the functionalities of Pandas, Seaborn, and Matplotlib in your Google Colab notebook.
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-**Licence**
+Caso utilize Google Colab ou Kaggle Notebook, essas bibliotecas podem ser importadas diretamente no ambiente.
 
-Public data for : Governo brasileiro, Casos pela universidade John Hopkins, Vacinação pela universidade de Oxford
-This project is under the MIT license. See the LICENSE file for more information.
+**Licença**
+
+Os dados utilizados neste projeto são públicos e disponibilizados pelas seguintes instituições:
+
+Universidade Johns Hopkins;
+Universidade de Oxford.
+
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+
    
 ![photo Dashboard](https://github.com/melaniedelia/COVID-19_Dashboard_Brasil/assets/150452346/a1ed0a8d-310f-49aa-b05d-ce1d8ca314ca)

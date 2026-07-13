@@ -13,6 +13,7 @@ Este projeto apresenta uma análise exploratória dos dados relacionados à evol
 A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, potencialmente grave, de elevada transmissibilidade e de distribuição global. 
 Fonte: Governo brasileiro ([link](https://www.gov.br/saude/pt-br/coronavirus/o-que-e-o-coronavirus)).
 
+
 **Objetivo**
 
 O objetivo deste projeto é desenvolver um dashboard interativo para exploração e visualização de dados sobre:
@@ -20,6 +21,7 @@ O objetivo deste projeto é desenvolver um dashboard interativo para exploraçã
 Evolução dos casos confirmados de COVID-19 no Brasil;
 Impacto da pandemia ao longo do tempo;
 Avanço da vacinação na população brasileira.
+
 
 
  - **Dashboard**:
@@ -31,6 +33,8 @@ Avanço da vacinação na população brasileira.
      Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
      Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
 
+
+
 **Tecnologias utilizadas**
 Python
 Pandas
@@ -39,6 +43,8 @@ Matplotlib
 Seaborn
 Kaggle Notebook
 Google Data Studio
+
+
 
 **Como executar o projeto**
 
@@ -50,6 +56,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 Caso utilize Google Colab ou Kaggle Notebook, essas bibliotecas podem ser importadas diretamente no ambiente.
+
+
 
 **Licença**
 

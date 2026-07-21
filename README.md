@@ -68,6 +68,19 @@ Universidade de Oxford.
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
+**Atribuição da imagem**
 
+Imagem:
+Ilustração relacionada com o SARS-CoV-2 / COVID-19
+
+Fonte:
+Anatolia Geneworks — Novel Coronavirus 2019-nCoV / SARS-CoV-2
+
+Link da fonte:
+https://www.anatoliageneworks.com/diseases/novel-coronavirus-2019-ncov-sars-cov-2/
+
+Utilizada apenas para fins educativos e de apresentação do projeto.
+
+---
    
 ![photo Dashboard](https://github.com/melaniedelia/COVID-19_Dashboard_Brasil/assets/150452346/a1ed0a8d-310f-49aa-b05d-ce1d8ca314ca)

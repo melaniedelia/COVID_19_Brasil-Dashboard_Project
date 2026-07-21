@@ -1,7 +1,7 @@
 # COVID-19_Dashboard_Brasil
 ## Análise da situação COVID_19 no Brasil
 
-![file-20230718-33186-1uz5zq](https://github.com/melaniedelia/COVID-19_Dashboard_Brasil/assets/150452346/350bcb15-cc03-461f-84be-f59c3a12b832)
+![file-20230718-33186-1uz5zqyyyy](https://github.com/melaniedelia/COVID-19_Dashboard_Brasil/assets/150452346/350bcb15-cc03-461f-84be-f59c3a12b832)
 
 
 ---

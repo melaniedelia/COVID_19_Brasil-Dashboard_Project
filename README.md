@@ -1,7 +1,9 @@
 # COVID-19_Dashboard_Brasil
 ## Análise da situação COVID_19 no Brasil
 
-![file-20230718-33186-1uz5zqyyyy](https://github.com/melaniedelia/COVID-19_Dashboard_Brasil/assets/150452346/350bcb15-cc03-461f-84be-f59c3a12b832)
+
+![COVID Virus 3D Modeling](covid-virus-3d-modeling.jpg)
+
 
 
 ---
@@ -68,18 +70,15 @@ Universidade de Oxford.
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
+---
+
 **Atribuição da imagem**
 
-Imagem:
-Ilustração relacionada com o SARS-CoV-2 / COVID-19
+A imagem **covid-virus-3d-modeling.jpg** foi obtida no site Magnific.
 
-Fonte:
-Anatolia Geneworks — Novel Coronavirus 2019-nCoV / SARS-CoV-2
+**Fonte:** https://www.magnific.com/fr/photos-gratuite/modelisation-3d-du-virus-covid_17613469.htm
 
-Link da fonte:
-https://www.anatoliageneworks.com/diseases/novel-coronavirus-2019-ncov-sars-cov-2/
-
-Utilizada apenas para fins educativos e de apresentação do projeto.
+A imagem é utilizada exclusivamente para fins educativos, informativos e de demonstração neste projeto. Todos os direitos pertencem ao respetivo autor e/ou ao detentor dos direitos de autor, conforme os termos de licenciamento da plataforma de origem. Se houver qualquer problema relacionado com a utilização desta imagem, entre em contato para que ela seja removida ou devidamente atribuída.
 
 ---
    

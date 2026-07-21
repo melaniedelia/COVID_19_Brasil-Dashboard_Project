@@ -84,4 +84,6 @@ A imagem é utilizada exclusivamente para fins educativos, informativos e de dem
 
 **Dashboard**
 
+Visão Geral
+
 ![photo Dashboard](https://github.com/melaniedelia/COVID-19_Dashboard_Brasil/assets/150452346/a1ed0a8d-310f-49aa-b05d-ce1d8ca314ca)

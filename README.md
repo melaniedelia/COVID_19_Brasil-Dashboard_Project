@@ -81,5 +81,7 @@ A imagem **covid-virus-3d-modeling.jpg** foi obtida no site Magnific.
 A imagem é utilizada exclusivamente para fins educativos, informativos e de demonstração neste projeto. Todos os direitos pertencem ao respetivo autor e/ou ao detentor dos direitos de autor, conforme os termos de licenciamento da plataforma de origem. Se houver qualquer problema relacionado com a utilização desta imagem, entre em contato para que ela seja removida ou devidamente atribuída.
 
 ---
-   
+
+**Dashboard**
+
 ![photo Dashboard](https://github.com/melaniedelia/COVID-19_Dashboard_Brasil/assets/150452346/a1ed0a8d-310f-49aa-b05d-ce1d8ca314ca)

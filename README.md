@@ -38,13 +38,13 @@ Avanço da vacinação na população brasileira.
 ---
 
 **Tecnologias utilizadas**
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Kaggle Notebook
-Google Data Studio
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Kaggle Notebook
+- Google Data Studio
 
 ---
 
